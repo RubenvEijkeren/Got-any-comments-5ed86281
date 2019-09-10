@@ -13,6 +13,7 @@ input{
 	border-radius: 5px;
 }
 .opmerkingen:focus {
+	outline: none;
 	border-color: green;
 }
 
