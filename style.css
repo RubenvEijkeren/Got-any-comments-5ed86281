@@ -1,0 +1,21 @@
+input{
+	border-radius: 5px;
+	width:;
+}
+#name {
+	border-radius: 5px;
+	display: block;
+	width: 300px;
+}
+.opmerkingen {
+	border-color: red;
+	border-style: solid;
+	border-radius: 5px;
+}
+.opmerkingen:focus {
+	border-color: green;
+}
+
+select {
+	border-radius: 5px;
+}
